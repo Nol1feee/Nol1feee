@@ -10,8 +10,6 @@
 
 <details><summary>Wakatime</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2023%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -31,11 +29,7 @@ Unknown Project          1 min               ░░░░░░░░░░░�
 Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Nol1feee/Nol1feee/main/assets/bar_graph.png)
-
-
- Last Updated on 24/11/2023 21:10:12 UTC
+ Last Updated on 24/11/2023 21:14:12 UTC
 <!--END_SECTION:waka-->
 </details>
