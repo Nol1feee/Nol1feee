@@ -9,7 +9,10 @@
 </details>
 
 <details><summary>Wakatime</summary>
+ 
 <!--START_SECTION:waka-->
+
+ 
 📊 **This Week I Spent My Time On** 
 
 ```text
