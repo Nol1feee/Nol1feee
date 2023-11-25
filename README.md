@@ -11,8 +11,6 @@
 <details><summary>Wakatime</summary>
  
 <!--START_SECTION:waka-->
-
- 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -33,6 +31,6 @@ Mac                      1 hr                ███████████�
 ```
 
 
- Last Updated on 24/11/2023 21:14:12 UTC
+ Last Updated on 25/11/2023 01:03:58 UTC
 <!--END_SECTION:waka-->
 </details>
