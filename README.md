@@ -1,6 +1,21 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/N0gameNol1fee" target="_blank">Vlad</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
 <h3 align="center">Goland dev</h3>
+
+- interested in becoming an engineer
+
+<div>
+ <h2>skills</h2>
+<img height="40" width="40" src="https://cdn.simpleicons.org/go/sapphirine title = go"> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/docker/sapphirine title = docker">
+<img height="40" width="40" src="https://cdn.simpleicons.org/PostgreSQL/sapphirine title = postgres"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/git/sapphirine title = git"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/gitlab/sapphirine title = gitlab"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/swagger/sapphirine title = swagger"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/gin/sapphirine title = gin"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/gnubash/sapphirine title = bash"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/C/sapphirine title = c"/> 
+</div>
 
 <h2>Stats</h2>
 <details><summary>Leetcode</summary>
