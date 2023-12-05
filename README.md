@@ -2,7 +2,21 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
 <h3 align="center">Goland dev</h3>
 
-- interested in becoming an engineer
+- interested in becoming an engineer!
+
+<div>
+ <h3>The Projects that I am working on/finished working on <img height="40" width="40" src="https://cdn.simpleicons.org/go/sapphirine title = go">  </h3>
+ <a href="https://github.com/Nol1feee/telegramBot-pocket">telegramBot-pocket</a>,
+ <a href="https://github.com/Nol1feee/CLI-chat">CLI-chat</a>,
+ <a href="https://github.com/Nol1feee/email-subscription-with-AI">email subscription with AI</a>,
+</div>
+
+<div>
+<h3>The projects I closed out in school 21 <img height="20" width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sberbank_Logo_2020.svg"> </h3>
+<a href="https://github.com/Nol1feee/s21_grep-cat">utils cat/grep</a>,
+<a href="https://github.com/Nol1feee/s21_string">string.h</a>, 
+<a href="https://github.com/Nol1feee/s21_matrix">matrix.h</a>
+</div>
 
 <div>
  <h2>skills</h2>
