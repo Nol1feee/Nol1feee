@@ -5,7 +5,7 @@
 - interested in becoming an engineer!
 
 <div>
- <h3>The Projects that I am working on/finished working on <img height="40" width="40" src="https://cdn.simpleicons.org/go/sapphirine title = go">  </h3>
+ <h3>The projects that I am working on or finished <img height="40" width="40" src="https://cdn.simpleicons.org/go/sapphirine title = go">  </h3>
  <a href="https://github.com/Nol1feee/telegramBot-pocket">telegramBot-pocket</a>,
  <a href="https://github.com/Nol1feee/CLI-chat">CLI-chat</a>,
  <a href="https://github.com/Nol1feee/email-subscription-with-AI">email subscription with AI</a>,
