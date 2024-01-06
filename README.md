@@ -44,17 +44,16 @@
 
 ```text
 💬 Programming Languages: 
-Protocol Buffer          15 mins             █████████████████░░░░░░░░   68.70 % 
-Go                       7 mins              ████████░░░░░░░░░░░░░░░░░   31.30 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CLI-chat                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2024 01:06:43 UTC
+ Last Updated on 06/01/2024 01:05:46 UTC
 <!--END_SECTION:waka-->
 </details>
