@@ -44,16 +44,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ███████████████████████░░   92.19 % 
+CSV                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/01/2024 01:08:07 UTC
+ Last Updated on 12/01/2024 01:08:20 UTC
 <!--END_SECTION:waka-->
 </details>
