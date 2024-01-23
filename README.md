@@ -36,7 +36,7 @@
 
 [![Nol1fe LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nol1feee&theme=dark)](https://leetcode.com/Nol1feee/)
 </details>
-<!--
+
 <details><summary>Wakatime</summary>
  
 <!--START_SECTION:waka-->
