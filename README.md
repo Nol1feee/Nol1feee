@@ -16,23 +16,23 @@
 ## 👨‍💻 TL;DR: мой путь в IT
 
 ### 🟢 2022–2024 | Поступление в [школу 21](https://21-school.ru/)
-- Проекты на **C**:  
-  [s21_grep-cat](https://github.com/Nol1feee/s21_grep-cat) • 
-  [s21_string](https://github.com/Nol1feee/s21_string) • 
-  [s21_matrix](https://github.com/Nol1feee/s21_matrix)  
-- DevOps-ветка: маршрутизация 5 виртуалок, контейнеризация, мониторинг (**Prometheus/Grafana**), CI/CD  
-- Первое знакомство с **Go**  
+
+- Проекты на **C**: [s21_grep-cat](https://github.com/Nol1feee/s21_grep-cat) • [s21_string](https://github.com/Nol1feee/s21_string) • [s21_matrix](https://github.com/Nol1feee/s21_matrix)
+- DevOps-ветка: маршрутизация 5 виртуалок, контейнеризация, мониторинг (**Prometheus/Grafana**), CI/CD
+- Первое знакомство с **Go**
 
 ---
 
 ### 🔵 2024–2025 | Первый коммерческий опыт
-- С [этим резюме](https://drive.google.com/file/d/1sQdEqNMrIZxRQEJbDTvewwGJw6f8mGSK/view) устроился в **[Rutube](https://rutube.ru/)** (backend, Golang)  
-- Успешно проработал чуть больше года, результаты в [обновлённом резюме](<ссылка>)  
+
+- С [этим резюме](https://drive.google.com/file/d/1sQdEqNMrIZxRQEJbDTvewwGJw6f8mGSK/view) устроился в **[Rutube](https://rutube.ru/)** (backend, Golang)
+- Успешно проработал чуть больше года, результаты в [обновлённом резюме](ссылка)
 
 ---
 
 ### ⚪ 2025 (сентябрь) | Поиск новой работы
-- В поиске новой работы; [резюме](<ссылка>)  
+
+- В поиске новой работы; [резюме](ссылка)
 
 ---
 
@@ -78,7 +78,6 @@
   <img src="https://img.shields.io/badge/NATS-27AAE1?logo=natsdotio&logoColor=white&style=for-the-badge" />
 </p>
 
-
 <!-- Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -89,4 +88,4 @@
 
 ---
 
-📌 *to be continued…*
+📌 _to be continued…_

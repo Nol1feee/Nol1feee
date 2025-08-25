@@ -17,10 +17,7 @@
 
 ### 🟢 2022–2024 | Studying at [School 21](https://21-school.ru/)
 
-- Built several projects in **C**:
-  [s21_grep-cat](https://github.com/Nol1feee/s21_grep-cat) •
-  [s21_string](https://github.com/Nol1feee/s21_string) •
-  [s21_matrix](https://github.com/Nol1feee/s21_matrix)
+- Built several projects in **C**: [s21_grep-cat](https://github.com/Nol1feee/s21_grep-cat) • [s21_string](https://github.com/Nol1feee/s21_string) • [s21_matrix](https://github.com/Nol1feee/s21_matrix)
 - Completed the **DevOps track**: VM networking, containerization, monitoring (**Prometheus/Grafana**), CI/CD pipelines
 - First hands-on experience with **Go**
 
