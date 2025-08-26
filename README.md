@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm <a href="https://t.me/N0gameNol1fee" target="_blank">Vlad</a>
+  <h1>Привет, я <a href="https://t.me/N0gameNol1fee" target="_blank">Влад!</a>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
          alt="waving hand" height="40">
   </h1>
@@ -25,7 +25,7 @@
 
 ### 🔵 2024–2025 | Первый коммерческий опыт
 
-- С [этим резюме](https://drive.google.com/file/d/1sQdEqNMrIZxRQEJbDTvewwGJw6f8mGSK/view) устроился в **[Rutube](https://rutube.ru/)** (backend, Golang)
+- С [этим резюме](https://drive.google.com/file/d/1sQdEqNMrIZxRQEJbDTvewwGJw6f8mGSK/view) и [таким](https://github.com/Nol1feee/birthday-notifier) тестовым устраиваюсь в **[Rutube](https://rutube.ru/)** (backend, Golang)
 - Успешно проработал чуть больше года, результаты в [обновлённом резюме](ссылка)
 
 ---
