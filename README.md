@@ -30,7 +30,7 @@
 
 ---
 
-### ⚪ 2025... | anykey, middle golang dev
+### ⚪ 2025 (сентябрь) - н.в. | anykey, middle golang dev
 
 ---
 
