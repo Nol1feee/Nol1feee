@@ -15,7 +15,7 @@
 
 ## 👨‍💻 TL;DR: мой путь в IT
 
-### 🟢 2022–2024 | Поступление в [школу 21](https://21-school.ru/)
+### 🟢 2022–2024 | Поступление и учеба в [школе 21](https://21-school.ru/)
 
 - Проекты на **C**: [s21_grep-cat](https://github.com/Nol1feee/s21_grep-cat) • [s21_string](https://github.com/Nol1feee/s21_string) • [s21_matrix](https://github.com/Nol1feee/s21_matrix)
 - DevOps-ветка: маршрутизация 5 виртуалок, контейнеризация, мониторинг (**Prometheus/Grafana**), CI/CD
@@ -23,14 +23,14 @@
 
 ---
 
-### 🔵 2024–2025 | Первый коммерческий опыт
+### 🔵 2024.07 - 2025.09 | [RUTUBE](https://rutube.ru), junior golang dev
 
-- С [этим резюме](https://drive.google.com/file/d/1sQdEqNMrIZxRQEJbDTvewwGJw6f8mGSK/view) и [таким](https://github.com/Nol1feee/birthday-notifier) тестовым устраиваюсь в **[Rutube](https://rutube.ru/)** (backend, Golang)
-- Успешно проработал чуть больше года
+- С [таким резюме](https://drive.google.com/file/d/1sQdEqNMrIZxRQEJbDTvewwGJw6f8mGSK/view) и [тестовым](https://github.com/Nol1feee/birthday-notifier) устраиваюсь в **[Rutube](https://rutube.ru/)** (backend, Golang)
+- Успешно работаю чуть больше года, достижения описаны [здесь](https://drive.google.com/file/d/1wScqyKUXvankSCEkVFVKRA77Ph7cK9Yq/view?usp=drive_link)
 
 ---
 
-### ⚪ 2025 (сентябрь) - н.в. | anykey, middle golang dev
+### ⚪ 2025.09 - н.в. | [A7 tech](https://www.a7.ru/), middle golang dev
 
 ---
 
